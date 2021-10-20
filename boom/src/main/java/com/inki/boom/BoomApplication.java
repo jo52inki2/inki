@@ -21,6 +21,7 @@ public class BoomApplication {
 
 		System.out.println("[hello] response_data : [" + response + "]");
 
+		
 		return response;
 	}
 }
