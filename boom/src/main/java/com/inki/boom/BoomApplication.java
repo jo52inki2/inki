@@ -20,7 +20,7 @@ public class BoomApplication {
 		String response = String.format("Hello %s", name); 
 
 		System.out.println("[hello] response_data : [" + response + "]");
-
+		 
 		return response;
 	}
 }
